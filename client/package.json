@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.5.8",
-    "@headlessui/react": "^1.0.0",
+    "@headlessui/react": "^1.7.12",
     "@heroicons/react": "^1.0.1",
     "autoprefixer": "^10.2.5",
     "firebase": "^8.10.1",
